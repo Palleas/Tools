@@ -9,8 +9,12 @@ Tools I use and always forget about.
 
 * Paw (HTTP) - https://paw.cloud
 
+## Documentation
+
+* ASCIINEMA (open source solution for recording terminal sessions and sharing them on the web) - https://asciinema.org/ 
+
 ## Misc
 
 * Soulver - http://www.acqualia.com/soulver/
-* Amphetamine (Keep your mac awake - https://itunes.apple.com/ca/app/amphetamine/id937984704?mt=12
+* Amphetamine (Keep your mac awake) - https://itunes.apple.com/ca/app/amphetamine/id937984704?mt=12
 * Flycut (clipboard manager) - https://github.com/TermiT/Flycut

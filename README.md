@@ -1,6 +1,10 @@
 # Tools
 Tools I use and always forget about.
 
+## Writing 
+
+* Bear - http://www.bear-writer.com/
+
 ## Design 
 
 * Drop (Color Picker) - http://dropcolorpicker.com

@@ -8,6 +8,8 @@ Tools I use and always forget about.
 ## Design 
 
 * Drop (Color Picker) - http://dropcolorpicker.com
+* HEX Color Tool - https://www.cssfontstack.com/oldsites/hexcolortool/
+* Little UI Details - https://twitter.com/i/moments/880688233641848832
 
 ## Dev 
 
